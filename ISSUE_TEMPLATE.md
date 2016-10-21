@@ -12,5 +12,8 @@
 ## Target Audience
 <!-- Beginners || Intermediate || Advanced -->
 
+## Hardware
+<!-- We use HDMI, let us know if you use anything different! -->
+
 ## Misc
 <!-- Let us know anything else that might be useful -->
