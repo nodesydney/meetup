@@ -17,7 +17,7 @@
 
 ## Date
 <!-- Doesn't matter whether it's six days or six months from now! -->
-<!-- We're the first Thursday of every month, and you can see exact dates at https://www.meetup.com/sydney-node-ninjas/ -->
+<!-- We're the first Thursday of every month, and you can see exact dates at https://www.meetup.com/node-sydney/ -->
 
 ## Misc
 <!-- Let us know anything else that might be useful -->
